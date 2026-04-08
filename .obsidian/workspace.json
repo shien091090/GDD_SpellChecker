@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "8092852ebacc801b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28dd0d270519d00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc0d21c187e7bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概述.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概述"
+            }
+          },
+          {
+            "id": "5d64338b9e0a9f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "魂件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "魂件"
+            }
+          },
+          {
+            "id": "564d9d7d49113b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主堡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "主堡"
+            }
+          },
+          {
+            "id": "beb1a3311ce7bbb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "靜態單位.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "靜態單位"
+            }
+          },
+          {
+            "id": "8ccb8bb9dfe541ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "移動單位.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "移動單位"
+            }
+          },
+          {
+            "id": "541f9ce89e4b0d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "進攻波次.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "進攻波次"
+            }
+          },
+          {
+            "id": "55e81d3b15830021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【概要】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【概要】"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b712e4bd9716d8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9c0a4e3e499357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da60899b91d9c78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "49a44f7153239bc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "10db9df89c7c309e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "701b96e270fdd3c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c736763b7cc464f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bfceeebbcaa0aef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "9d75c1d3fdfaaac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "d4ed511e274c8304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "d0bf72c393da38b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "3bc616269c1cdf20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "55e81d3b15830021",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "【概要】.md",
+    "購買.md",
+    "主堡.md",
+    "TempAsset/monster1.aseprite",
+    "TempAsset",
+    "Temp",
+    "AssetTemp",
+    "新增資料夾",
+    "我方和中立單位.md",
+    "大地圖.md",
+    "附設建築.md",
+    "進攻波次與路線.md",
+    "魂件.md",
+    "defence_tower.png",
+    "怪物(敵方單位).md",
+    "角色.md",
+    "未命名.md",
+    "移動單位.md",
+    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg.md",
+    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg",
+    "未命名",
+    "未命名 1.canvas",
+    "未命名.base",
+    "E6059BDC-F031-4711-91D5-6352BE5892D1.jpg"
+  ]
+}
