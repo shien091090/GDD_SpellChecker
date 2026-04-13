@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【概要】.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【概要】"
+              "title": "README"
             }
           }
         ],
@@ -265,10 +265,10 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "55e81d3b15830021",
+  "active": "2da60899b91d9c78",
   "lastOpenFiles": [
     "未命名.canvas",
-    "【概要】.md",
+    "README.md",
     "購買.md",
     "主堡.md",
     "TempAsset/monster1.aseprite",
