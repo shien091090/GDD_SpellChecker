@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "遊戲介面.md",
+                "file": "對話紀錄介面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "遊戲介面"
+              "title": "對話紀錄介面"
             }
           }
         ],
@@ -265,11 +265,25 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "55e81d3b15830021",
+  "active": "2da60899b91d9c78",
   "lastOpenFiles": [
+    "劇情對話系統.md",
+    "主遊戲畫面全域.md",
+    "dialogue_system.png",
+    "對話紀錄介面.md",
     "【劇本】第一章.md",
     "README.md",
-    "遊戲介面.md",
+    "技能介面.md",
+    "出場人物介面.md",
+    "小遊戲 - 腳印成像術.md",
+    "小遊戲 - 氣味軌跡感知術.md",
+    "小遊戲 - 製藥.md",
+    "存檔筆記本.md",
+    "遊戲主畫面.md",
+    "存檔和讀檔介面.md",
+    "設定介面.md",
+    "道具介面.md",
+    "地圖介面.md",
     "未命名.canvas",
     "購買.md",
     "主堡.md",
@@ -286,8 +300,6 @@
     "defence_tower.png",
     "怪物(敵方單位).md",
     "角色.md",
-    "移動單位.md",
-    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg.md",
     "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg",
     "未命名",
     "未命名 1.canvas",
