@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "對話紀錄介面.md",
+                "file": "出場人物介面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "對話紀錄介面"
+              "title": "出場人物介面"
             }
           }
         ],
@@ -265,24 +265,39 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "2da60899b91d9c78",
+  "active": "55e81d3b15830021",
   "lastOpenFiles": [
-    "劇情對話系統.md",
     "主遊戲畫面全域.md",
-    "dialogue_system.png",
-    "對話紀錄介面.md",
-    "【劇本】第一章.md",
+    "TempImage/草稿/dialogue_record_panel.jpg",
+    "TempImage/AI生成暫存/dialogue_record_panel.png",
+    "道具介面.md",
+    "遊戲主畫面.md",
     "README.md",
+    "TempImage/AI生成暫存/item_panel.jpg",
+    "TempImage/AI生成暫存/messageImage_1777048639871.jpg",
+    "TempImage/草稿/item_panel.jpg",
+    "TempImage/草稿/S__25346052.jpg",
     "技能介面.md",
+    "對話紀錄介面.md",
+    "設定介面.md",
+    "TempImage/草稿/skill_panel.jpg",
+    "TempImage/草稿/技能介面.jpg",
+    "TempImage/草稿/S__25337864.jpg",
+    "TempImage/草稿",
+    "TempImage/草圖/S__25337864.jpg",
+    "TempImage/AI生成暫存",
+    "TempImage/新增資料夾",
+    "TempImage/草圖",
+    "TempImage",
+    "新增資料夾",
+    "劇情對話系統.md",
+    "【劇本】第一章.md",
     "出場人物介面.md",
     "小遊戲 - 腳印成像術.md",
     "小遊戲 - 氣味軌跡感知術.md",
     "小遊戲 - 製藥.md",
     "存檔筆記本.md",
-    "遊戲主畫面.md",
     "存檔和讀檔介面.md",
-    "設定介面.md",
-    "道具介面.md",
     "地圖介面.md",
     "未命名.canvas",
     "購買.md",
@@ -291,19 +306,13 @@
     "TempAsset",
     "Temp",
     "AssetTemp",
-    "新增資料夾",
     "我方和中立單位.md",
     "大地圖.md",
     "附設建築.md",
     "進攻波次與路線.md",
     "魂件.md",
-    "defence_tower.png",
     "怪物(敵方單位).md",
     "角色.md",
-    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg",
-    "未命名",
-    "未命名 1.canvas",
-    "未命名.base",
-    "E6059BDC-F031-4711-91D5-6352BE5892D1.jpg"
+    "未命名 1.canvas"
   ]
 }
