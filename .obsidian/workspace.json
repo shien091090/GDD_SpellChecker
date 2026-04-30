@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小遊戲 - 氣味軌跡感知術.md",
+                "file": "小遊戲 - 腳印成像術.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小遊戲 - 氣味軌跡感知術"
+              "title": "小遊戲 - 腳印成像術"
             }
           }
         ],
@@ -267,11 +267,11 @@
   },
   "active": "55e81d3b15830021",
   "lastOpenFiles": [
-    "小遊戲 - 製藥.md",
-    "小遊戲 - 氣味軌跡感知術.md",
-    "TempImage/草稿/odor_path_perception_game.png",
-    "小遊戲 - 腳印成像術.md",
     "TempImage/草稿/footprint_manifestation_game.png",
+    "小遊戲 - 氣味軌跡感知術.md",
+    "小遊戲 - 腳印成像術.md",
+    "小遊戲 - 製藥.md",
+    "TempImage/草稿/odor_path_perception_game.png",
     "README.md",
     "TempImage/草稿/alchemy_game.png",
     "TempImage/草稿/dialogue_system.png",
